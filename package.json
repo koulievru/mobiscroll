@@ -4,22 +4,6 @@
     "description": "Angular UI library for progressive web and hybrid apps",
     "homepage": "https://mobiscroll.com/",
     "license": "SEE LICENSE IN LICENSE",
-    "keywords": [
-        "mobile web",
-        "hybrid apps",
-        "javascript",
-        "mobiscroll",
-        "javascript library",
-        "angular",
-        "component library",
-        "ui components",
-        "ui kit",
-        "ionic plugin"
-    ],
-    "author": {
-        "name": "Mobiscroll",
-        "url": "https://mobiscroll.com/"
-    },
     "repository": {
         "type": "git",
         "url": "https://github.com/koulievru/mobiscroll"
