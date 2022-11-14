@@ -24,8 +24,7 @@
         "dist/css/mobiscroll.scss",
         "dist/css/mobiscroll.min.css",
         "dist/css/icons_mobiscroll.ttf",
-        "dist/css/icons_mobiscroll.woff",
-        "src/**"
+        "dist/css/icons_mobiscroll.woff"
     ],
     "peerDependencies": {
         "@angular/core": ">=2.0.0",
