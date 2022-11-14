@@ -1,4 +1,4 @@
-export * from './mobiscroll.angular.trial';
+export * from '../src/js/modules/mobiscroll.angular';
 export { MbscCalBase as ɵz, MbscCalBaseModule as ɵba } from '../src/js/classes/calbase.angular';
 export { MbscDatetimeBase as ɵbb, MbscDatetimeBaseModule as ɵbc } from '../src/js/classes/datetimebase.angular';
 export { MbscNavItemBase as ɵbd, MbscNavigationBase as ɵbe, MbscNavigationBaseModule as ɵbf } from '../src/js/classes/navigation-base.angular';
